@@ -1,0 +1,19 @@
+# Compiled C++ executable
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Debug/build folders
+build/
+bin/
+Debug/
+Release/
+
+# Visual Studio Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
